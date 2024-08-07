@@ -31,7 +31,7 @@ To exercise Next.js, TailwindCSS and API fetching.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/renatozr/instapost.git
+   git clone https://github.com/renatozr/weather-app.git
    ```
 2. Enter the directory
    ```sh
