@@ -23,9 +23,7 @@ To exercise Next.js, TailwindCSS and API fetching.
 ### Prerequisites
 
 - NPM
-  ```sh
-  npm install npm@latest -g
-  ```
+- <a href="https://openweathermap.org/forecast5">OpenWeather Free API Key</a>
 
 ### Installation
 
@@ -41,7 +39,11 @@ To exercise Next.js, TailwindCSS and API fetching.
    ```sh
    npm install
    ```
-4. Run the project
+4. Fill in the environment variables
+   ```sh
+   NEXT_PUBLIC_WEATHER_KEY=
+   ```
+5. Run the project
    ```sh
    npm run dev
    ```
